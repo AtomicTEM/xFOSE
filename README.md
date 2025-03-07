@@ -36,3 +36,5 @@ See [DEVELOPMENT.md](https://github.com/xNVSE/NVSE/blob/master/DEVELOPMENT.md).
 The original FOSE was created and maintained by *Ian Patterson*,
 *Stephen Abel*, *Paul Connelly*, and *Hugues LE PORS*
 (ianpatt, behippo, scruggsywuggsy the ferret, and hlp)
+
+Up to 500-5000 CAD To the team that gets this to the same level as xNVSE.
